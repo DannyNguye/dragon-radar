@@ -1,5 +1,7 @@
 # README
 
+[![Codeship Status for DannyNguye/dragon-radar](https://app.codeship.com/projects/ae7605b0-f13a-0137-4da1-32b1f8b58255/status?branch=master)](https://app.codeship.com/projects/375589)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
